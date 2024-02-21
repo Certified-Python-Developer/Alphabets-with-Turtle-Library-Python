@@ -1,0 +1,13 @@
+import turtle
+turtle.speed(1)
+turtle.penup()
+turtle.goto(80,80)
+turtle.pencolor("yellow")
+turtle.pendown()
+turtle.goto(80,0)
+
+import turtle
+turtle.speed(1)
+turtle.circle(40,185)
+
+
