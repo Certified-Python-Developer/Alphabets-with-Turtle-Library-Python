@@ -1,0 +1,13 @@
+import turtle
+turtle.speed(1)
+turtle.bgcolor("black")
+
+turtle.penup()
+turtle.goto(0,0)
+turtle.pencolor("white")
+turtle.pendown()
+turtle.goto(0,100)
+turtle.penup()
+turtle.goto(0,0)
+turtle.pendown()
+turtle.goto(80,0)
